@@ -1,7 +1,10 @@
+import {Card} from 'antd'
 function Login(){
     return(
-        <div>
-            login
+        <div className='login'>
+            <Card className='login-container'>
+                
+            </Card>
         </div>
     )
 }
